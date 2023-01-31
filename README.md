@@ -1,2 +1,2 @@
-# bsq-website
+# Website for Crypto Discord
 Website
